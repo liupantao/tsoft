@@ -380,6 +380,7 @@ public class RedisUtils {
             e.printStackTrace();
             return 0;
         }
+
     }
     /**
      * 通过索引 获取list中的值
